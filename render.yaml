@@ -1,6 +1,6 @@
 databases:
   - name: NomadBnB
-    user: NomadBnB
+    user: nomadBnB
     plan: free
     region: ohio
 
